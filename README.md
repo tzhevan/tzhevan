@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
 
+Hello! My name is Tozammal Hossain Evan, an undergraduate student 🧑‍🎓 majoring in Computer Science and Engineering 🧑‍💻 at BRAC University, Dhaka, Bangladesh.
 <!--
 **tzhevan/tzhevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
